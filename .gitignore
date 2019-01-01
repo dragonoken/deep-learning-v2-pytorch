@@ -1,1 +1,13 @@
-.ipynb_checkpoints
+*.jpg
+*.png
+*.bz2
+*.pt
+*.zip
+*.jpeg
+**/.DS_Store
+*.pyc
+*.cpp
+*.cu
+recurrent-neural-networks/char-rnn/peephole_lstm_classes.py
+recurrent-neural-networks/char-rnn/peeprnn.net
+recurrent-neural-networks/char-rnn/rnn_x_epoch.net
